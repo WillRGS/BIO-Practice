@@ -2,7 +2,7 @@
 This challenge in particular took some time for me to crack.
 After failing once in Dec 2019, I had another go and succeeded in Jan 2020.
 This was because I had a new idea on how to calculate permutations easily while reading the
-New York Times book of Mathematics. The formula it gave was very simple so easy to implement in a function.
+New York Times book of Mathematics. The formula the book gave was very simple so easy to implement in a function.
 The logic/algorithm I used here is adapted from my first attempt, but it simpler and easier to understand.
 """
 
